@@ -1,5 +1,5 @@
 # Shaders
-Multiple Shaders for Unity URP and Unity HDRP
+Multiple Shaders for Unity URP
 
 This repository contains :
 ## Fake Interior Shader

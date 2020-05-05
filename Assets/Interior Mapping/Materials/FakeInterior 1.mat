@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FakeInterior
-  m_Shader: {fileID: -6465566751694194690, guid: 57c06d55fda786744906fccf86585240,
+  m_Name: FakeInterior 1
+  m_Shader: {fileID: -6465566751694194690, guid: 3c08965384a7be34fb475a5ddd6c5dba,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -33,6 +33,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: eac69ed14a4360d47b8d5c85e81ae68e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubemapB:
         m_Texture: {fileID: 8900000, guid: e89c139dab49be544a61bd6e3bdc32e5, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -86,7 +90,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Tiling: {r: 2, g: 2, b: 0, a: 0}
 --- !u!114 &3577850172368710390
 MonoBehaviour:
   m_ObjectHideFlags: 11

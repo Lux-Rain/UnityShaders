@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: FakeInterior
+  m_Name: FakeInterior 2
   m_Shader: {fileID: -6465566751694194690, guid: 57c06d55fda786744906fccf86585240,
     type: 3}
   m_ShaderKeywords: 
@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: e89c139dab49be544a61bd6e3bdc32e5, type: 3}
+        m_Texture: {fileID: 8900000, guid: eac69ed14a4360d47b8d5c85e81ae68e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
